@@ -3,7 +3,8 @@
 I'm a freshly graduated software developer with a passion for tech and music.
 I studied at the University of Victoria as well as an international exhchange at the University of Hong Kong 🏙
 
-- 👨🏻‍💻 In my spare time I’ve been building [Statify](https://github.com/terahn/statify), a React web app that visualizes your musical taste using a graph of your favourite artists. You can check out a live demo [here](https://statifyforspotify.herokuapp.com/) 😄
+- 👨🏻‍💻 In my spare time I’ve been working as a contributor and maintainer on a great React graph library called react-d3-graph which you can check out [here](https://github.com/danielcaldas/react-d3-graph)!
+- 🎵 I’ve also been building [Statify](https://github.com/terahn/statify), a React web app that visualizes your musical taste using a graph of your favourite artists. You can check out a live demo [here](https://statifyforspotify.herokuapp.com/) 😄
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/terahn/) 🤝
 
